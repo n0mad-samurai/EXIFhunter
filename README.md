@@ -1,4 +1,5 @@
 # EXIFhunter
+
 EXIFhunter automates the task of sifting through
 a directory of files, to discover images that
 contain possible Exchangeable Image File Format
