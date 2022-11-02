@@ -26,4 +26,4 @@ non-descript files in a directory.
 This program attempts to remove
 the drudgery of that task.
 
-![alt text](screeshots/Eh_no-opt.png?raw=true "Basic output")
+![stdout](screenshots/Eh_no-opt.png?raw=true "Basic output")
