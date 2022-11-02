@@ -7,11 +7,11 @@ regard to file name extensions.
 
 Options include:
 Save tabular results file (.txt) with
-its forensic checksum (.sha1 default) file
+its forensic checksum (.sha1 default) file.
 Save csv results file (.csv) with
-its forensic checksum (.sha1 default) file
+its forensic checksum (.sha1 default) file.
 Additional message digest selection for
-checksum files: md5, sha256, and sha3 hashes
+checksum files: md5, sha256, and sha3 hashes.
 Verbose output that lists:
 image types that it can recognize,
 files that were not recognized as images,
