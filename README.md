@@ -26,4 +26,8 @@ non-descript files in a directory.
 This program attempts to remove
 the drudgery of that task.
 
-![stdout](screenshots/Eh_no-opt.png?raw=true "Basic output")
+![basic output](screenshots/Eh_no-opt.png?raw=true "basic output")
+
+![verbose output](screenshots/Eh_v_nosave-opt.png?raw=true "verbose output")
+
+![saving results](screenshots/Eh_def_sha1.png?raw=true "saving results")
