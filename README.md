@@ -12,7 +12,7 @@ Save csv results file (.csv) with
 its forensic checksum file (.sha1 default).
 Additional message digest selection for
 checksum files: md5, sha256, and sha3 hashes.
-Verbose output that lists:
+Verbose output that lists;
 image types that it can recognize,
 files that were not recognized as images,
 images recognized by the process,
