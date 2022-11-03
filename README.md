@@ -29,7 +29,7 @@ the drudgery of that task.
 
 ![basic output](screenshots/Eh_no-opt.png?raw=true "basic output")
 
-![no prettytable](screenshot/Eh_no_pretty.png?raw=true "no prettytable")
+![no prettytable](screenshots/Eh_no_pretty.png?raw=true "no prettytable")
 
 ![verbose output](screenshots/Eh_v_nosave-opt.png?raw=true "verbose output")
 
