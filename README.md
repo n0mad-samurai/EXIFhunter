@@ -28,13 +28,17 @@ This program attempts to remove
 the drudgery of that task.
 
 Basic output with PrettyTable
+
 ![basic output](screenshots/Eh_no-opt.png?raw=true "basic output")
 
 Basic output with no PrettyTable
+
 ![no prettytable](screenshots/Eh_no_pretty.png?raw=true "no prettytable")
 
 Verbose output
+
 ![verbose output](screenshots/Eh_v_nosave-opt.png?raw=true "verbose output")
 
 Output that includes saving the results in a txt and CSV file
+
 ![saving results](screenshots/Eh_def_sha1.png?raw=true "saving results")
