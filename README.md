@@ -27,18 +27,19 @@ non-descript files in a directory.
 This program attempts to remove
 the drudgery of that task.
 
-Basic output with PrettyTable
+Basic output with PrettyTable.
 
 ![basic output](screenshots/Eh_no-opt.png?raw=true "basic output")
 
-Basic output with no PrettyTable
+Basic output with no PrettyTable.
 
 ![no prettytable](screenshots/Eh_no_pretty.png?raw=true "no prettytable")
 
-Verbose output
+Verbose output.
 
 ![verbose output](screenshots/Eh_v_nosave-opt.png?raw=true "verbose output")
 
-Output that includes saving the results in a txt and CSV file
+Output that includes saving the results in a text and CSV file to the local directory.
+The output also includes a checksum file with an extension of the hash (i.e., .sha1).
 
 ![saving results](screenshots/Eh_def_sha1.png?raw=true "saving results")
