@@ -1,5 +1,29 @@
 '''
 EXIFhunter v0.50
+Bobby Price
+n0mad-samurai
+'''
+'''
+License: GPLv3
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY# without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+To view a copy of the GNU General Public License
+visit: http://www.gnu.org/licenses/gpl.html
+'''
+'''
+EXIFhunter automates the task of sifting through
+a directory of files, to discover images that
+contain possible Exchangeable Image File Format
+(EXIF) metadata. Files are processed without
+regard to file name extensions.
 '''
 '''
 Python 3.x
